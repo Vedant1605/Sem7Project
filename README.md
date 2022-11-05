@@ -8,16 +8,7 @@
 
 
 
-<p align="center">
-  <a href="About">About</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#Packages">Credits</a> •
-  <a href="#Portfolio">Portfolio</a> •
-  <a href="#Account">Github Main Acc</a> •
-  <a href="#Contact Me">Contact Me</a>
-</p>
+
 
 <p align="center">
  
