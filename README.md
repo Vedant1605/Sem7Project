@@ -2,13 +2,6 @@
 
  Face Regognitions Base Smart Attendance System
   <br>
-</h1>
-
-<h4 align="center">A Smart Face Recognitions Attendance Full-Stack Web App  <a href="https://youtu.be/1ZzRX6haBOc" target="_blank">DEMO </a>.</h4>
-
-
-
-
 
 <p align="center">
  
