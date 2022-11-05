@@ -53,14 +53,8 @@ To run the web app on your local computer, install the required libraries ([requ
 ```python
 pip install -r requirements.txt
 ```
-
-**Note: If dlib is not installed then you can install the file 
-"dlib-19.22.99-cp39-cp39-win_amd64.whl" which is attached with the code file** [download](https://github.com/csejay3chauhan/microsodt-engage-22-project/blob/master/dlib-19.22.99-cp39-cp39-win_amd64.whl)
 ```python
 pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
-```
-
-and run the following command in the command prompt:
 ```python
 python manage.py runserver
 ``` 
@@ -94,7 +88,7 @@ Password: admin
 
 - To Clone the Repo
 ```
-$ git clone https://github.com/csejay3chauhan/microsodt-engage-22-project.git
+$ git clone https://github.com/Vedant1605/Sem7Project
 ```
 - [Download](https://drive.google.com/drive/folders/1npXtn7KT_cWE4gXdbDIrHVz8hqa1Cia-) Screenshots of the project
 - [Download](https://drive.google.com/drive/folders/159pOGSotTmN7HTLe4NfDgUQy9I-9p9Bm) Flowcharts & Diagram
